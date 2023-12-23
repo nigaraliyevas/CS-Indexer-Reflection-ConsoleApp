@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\bin\Debug\net6.0\AcademyApp.Domain.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\bin\Debug\net6.0\AcademyApp.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\bin\Debug\net6.0\AcademyApp.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\AcademyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\AcademyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\AcademyApp.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\AcademyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\AcademyApp.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\refint\AcademyApp.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\AcademyApp.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Indexer-Reflection-ConsoleApp\AcademyApp.Domain\obj\Debug\net6.0\ref\AcademyApp.Domain.dll
